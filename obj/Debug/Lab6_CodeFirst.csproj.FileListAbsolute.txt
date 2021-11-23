@@ -1,0 +1,15 @@
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6.exe
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\Lab6.exe
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\EntityFramework.dll
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\EntityFramework.xml
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6_CodeFirst.csproj.CopyComplete
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6.Migrations.InitialCreate.resources
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Olena\Desktop\3 course\1 term\SC\Lab6\obj\Debug\Lab6.Migrations.ITCompanyDBv1.resources
